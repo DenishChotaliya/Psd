@@ -1,0 +1,150 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contioner {
+  width: 1870px;
+  /* background-color: blue; */
+  /* color: white; */
+  /* height: 800px; */
+  margin: 0 auto;
+}
+.col-30 {
+  width: 30%;
+  margin: 0 auto;
+}
+.col-50{
+    width: 50%;
+    margin: 0 auto  ;
+}
+/* li{
+    display: inline-block;
+} */
+.m-0 {
+  margin: 0 auto;
+}
+.bg-color {
+  background-color: #000000a0;
+}
+.d-flex {
+  display: flex;
+}
+.list-none li {
+  list-style: none;
+  color: white;
+}
+.jsc {
+  justify-content: space-between;
+}
+.jsb{
+    justify-content: center;
+}
+.alc {
+  align-items: center;
+}
+.sec-one-nav li {
+  font-size: x-large;
+  margin-right: 20px;
+}
+/* ----------------------------------------section-one---------------------------- */
+.sec-one {
+  background-image: url(../Img/Sec-one-img.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.sec-one-text h1,
+.sec-one-text > p {
+  color: white;
+}
+.sec-one-text > h1 {
+  /* color: white; */
+  font-size: 75px;
+  padding-top: 100px;
+  /* font-size: xx-large; */
+}
+.sec-one-text {
+  margin: 100px 0 30px 0;
+}
+.sec-one-text p {
+  /* color: white; */
+  font-size: 40px;
+  width: 50%;
+  margin: 0 auto;
+  /* font-size: xx-large; */
+}
+.m-10 {
+  padding: 100px 0;
+}
+.tlc {
+  text-align: center;
+}
+.sec-one-btn {
+  padding: 10px 40px;
+  background-color: #f6d365;
+  border-radius: 4px;
+  margin-bottom: 100px;
+}
+.btn {
+  padding-bottom: 100px;
+}
+
+/*--------------------------------------------- section-two -------------------------------------------------- */
+.sec-two {
+    background-color: #f6d365;
+    /* height: 800px; */
+}
+.sec-two-text h1 {
+    font-size: 75px;
+    padding-top: 100px;
+}
+.sec-two-text p {
+    font-size: 40px;
+  width: 50%;
+  margin: 0 auto;
+}
+.txt p {
+    width: 50%;
+    margin: 0 auto;
+}
+.txt{
+    padding: 100px 0;
+    /* margin: 100px 0; */
+}
+/*--------------------------------------------- section-three -------------------------------------------------- */
+.sec-three{
+    background-color: #333333;
+}
+.sec-three-text{
+    color: white;
+    /* text-align: center; */
+}
+.sec-three-text>h1{
+    /* color: white; */
+    font-size: 75px;
+    /* padding-top: 100px; */
+}
+.sec-three-text>p{
+    font-size: 40px;
+}
+.sec-three-img img{
+    padding: 70px 70px;
+}
+
+
+
+
+.h{
+    /* height: 800px ; */
+    background-color: #f6d365;
+}
+.red{
+    border: 3px solid black;
+    /* height: 50px;
+    width: 50px; */
+}
+.red h1{
+    font-size: 90px;
+    text-align: center;
+}
